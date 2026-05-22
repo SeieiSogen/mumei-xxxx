@@ -16,6 +16,7 @@ https://seiei-sogen.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- May 22 [Rust + axum で画像掲示板を作る (1) プロジェクト初期化と Hello, axum!](https://zenn.dev/purenium/articles/2026_05_22_rust-axum-imgbbs-01-init)
 - May 8 [仏教アビダンマの四相分析をClaude Code / Codex CLIのSkillにした](https://zenn.dev/purenium/articles/2026_05_08_lakkhanadi-catukka-analyzer)
 - Oct 4 [オブジェクト指向無本質論【後期ウィトゲンシュタイン/家族的類似性】―「本当のオブジェクト指向」はない](https://zenn.dev/purenium/articles/2025_10_04_object-oriented-family-resemblance)
 - Nov 1 [いかにして『型』は人を救うか。【ウィトゲンシュタイン / 千葉雅也】](https://zenn.dev/purenium/articles/2024_11_01_how_type_systems_can_save_humans)
@@ -25,7 +26,6 @@ https://seiei-sogen.github.io/
 - Mar 24 [SWR活用パターン 無限スクロール編 (+ graphql-request, 交差オブザーバー APIカスタムフック)](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
 - Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
 - Dec 24 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」①](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-01-calculatewinner)
-- Oct 19 [【PureScript】spago が v0.15.0 から esbuild を使うようになっていた。](https://zenn.dev/purenium/articles/purescript-spago-use-esbuild-as-bundler)
 <!-- profile updater end: zenn -->
 
 <br>
