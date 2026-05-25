@@ -16,6 +16,7 @@ https://seiei-sogen.github.io/
 ## Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- May 25 [Rust + axum で画像掲示板を作る (3) SQLite + sqlx 接続とマイグレーション](https://zenn.dev/purenium/articles/2026_05_25_rust-axum-imgbbs-03-sqlx-migration)
 - May 23 [Rust + axum で画像掲示板を作る (2) tracing と TraceLayer で開発体験を整える](https://zenn.dev/purenium/articles/2026_05_23_rust-axum-imgbbs-02-tracing)
 - May 22 [Rust + axum で画像掲示板を作る (1) プロジェクト初期化と Hello, axum!](https://zenn.dev/purenium/articles/2026_05_22_rust-axum-imgbbs-01-init)
 - May 8 [仏教アビダンマの四相分析をClaude Code / Codex CLIのSkillにした](https://zenn.dev/purenium/articles/2026_05_08_lakkhanadi-catukka-analyzer)
@@ -25,7 +26,6 @@ https://seiei-sogen.github.io/
 - Aug 5 [【2024年】フロントエンド設定集（ESLint、Prettier、EditorConfig、tsconfig.json……）](https://zenn.dev/purenium/articles/2024_08_05_front-end_configuration)
 - Mar 27 [Clean Architecture の『骨』](https://zenn.dev/purenium/articles/clean-architecture-essence)
 - Mar 24 [SWR活用パターン 無限スクロール編 (+ graphql-request, 交差オブザーバー APIカスタムフック)](https://zenn.dev/purenium/articles/use_swr_infinite-graphql-infinite-loading)
-- Dec 25 [魔理沙「PureScript Jelly で、Reactチュートリアル三目並べの《純粋関数型／型安全》版を作るぜ」②](https://zenn.dev/purenium/articles/purescript-jelly-tic-tac-toe-02)
 <!-- profile updater end: zenn -->
 
 <br>
